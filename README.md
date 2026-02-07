@@ -27,10 +27,8 @@
 ### 📊 GitHub Statistikam
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asilhub&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilhub&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asilhub&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Asilhub&style=flat-square&color=blue" alt="profile views" /> 
 </div>
