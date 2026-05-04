@@ -86,11 +86,11 @@ fun_fact: "Agar kod ishlayotgan bo'lsa — men yozdim.
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Asilhub/Asilhub/output/github-contribution-grid-snake-dark.svg)
+[![Asilhub's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asilhub&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Asilhub)
 
 </div>
 
